@@ -22,7 +22,7 @@ A BOT written in Javascript using the Discord.js library & Firebase Real Time DB
 * Não prestarei nenhum tipo de tutorial ou suporte, tenha no mínimo 2 neurônios para conseguir fazer isto funcionar, caso você não possua este requisito mínimo sugiro que se tranque em um quarto e nunca apareça em público.
 * I will not provide any kind of tutorial or support, have at least 2 neurons to get this to work, if you do not have this minimum requirement I suggest you lock yourself in a room and never appear in public.
 
-🌟 Agradeço imensamente a todos amigos que acreditaram e me ajudaram come este projeto, agradeço principalmente ao meu amigo e mentor Tindus, por ter me ajudado a me tornar o desenvolvedor que sou hoje, por acreditar em mim e ter me mostrado o real significado de respeito e honra no mundo da programação.
+🌟 Agradeço imensamente a todos amigos que acreditaram e me ajudaram com este projeto, agradeço principalmente ao meu amigo e mentor Tindus, por ter me ajudado a me tornar o desenvolvedor que sou hoje, por acreditar em mim e ter me mostrado o real significado de respeito e honra no mundo da programação.
 
 🌟 I am immensely grateful to all friends who believed in and helped me with this project, I am especially grateful to my friend and mentor Tindus, for helping me become the developer I am today, for believing in me and showing me the real meaning of respect and honor in the programming world.
 
