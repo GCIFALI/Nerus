@@ -9,20 +9,6 @@ const delaystatus = new Set();
 module.exports = async (client, message, guild) => {
     if(message.channel.type == "dm") return; //Ignora mensagens diretas
     if (message.author.bot) return; //Ignora mensagens enviadas por bots
-
-    if (message.guild.id == '825423554639560756') {
-        if (!delaystatus.has(message.guild.id)) {
-            let channel = message.guild.channels.cache.get('826105391015264297')
-            channel.setName(`👾 Servidores: ${client.guilds.cache.size}`);
-            let channel2 = message.guild.channels.cache.get('826144857419415632')
-            channel2.setName(`👻 Usuários: ${client.users.cache.size}`);
-            delaystatus.add(message.guild.id)
-            setTimeout(() => {
-                delaystatus.delete(message.guild.id); 
-            }, 60000);
-            return
-        }
-    }
     if (message.guild.id == '825423554639560756') return;
     let localizardatabase = database.ref(`servidores/${message.guild.id}/`);
     localizardatabase.once('value', (snapshot) => {
