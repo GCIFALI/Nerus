@@ -3,6 +3,8 @@ Antes de tudo, de uma estrelinha no projeto (:
 
 First of all, a little star in the project (:
 
+**Este BOT foi desenvolivido em torno de 3 semanas corridas no começo de 2021, caso você tenha capacidade existem DIVERSOS sistemas que podem ser melhorados, otimizados e organizados.**
+
 Um BOT escrito em Javascript utilizando a biblioteca Discord.js & Firebase Real Time DB. Criado com o intuito de ajudar toda a comunidade que pratica o roleplay de GTAV pelo console. Criado e desenvolvido por mim, Guilherme..
 
 A BOT written in Javascript using the Discord.js library & Firebase Real Time DB. Created with the intention of helping the whole community that practices GTAV roleplay through the console. Created and developed by me, Guilherme.
