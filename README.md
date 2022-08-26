@@ -22,8 +22,8 @@ A BOT written in Javascript using the Discord.js library & Firebase Real Time DB
 * Este BOT foi desenvolivido em torno de 3 semanas corridas no começo de 2021, caso você tenha capacidade existem diversos sistemas que podem ser melhorados e organizados.
 * This BOT was developed around 3 weeks at the beginning of 2021, if you have the capacity there are several systems that can be improved and organized.
 
-* Não prestarei nenhum tipo de tutorial ou suporte, tenha no mínimo 2 neurônios para conseguir fazer isto funcionar, caso você não possua este requisito mínimo sugiro que se tranque em um quarto e nunca apareça em público.
-* I will not provide any kind of tutorial or support, have at least 2 neurons to get this to work, if you do not have this minimum requirement I suggest you lock yourself in a room and never appear in public.
+* Não prestarei nenhum tipo de tutorial ou suporte.
+* I will not provide any kind of tutorial or support.
 
 🌟 Agradeço imensamente a todos amigos que acreditaram e me ajudaram com este projeto, agradeço principalmente ao meu amigo e mentor Tindus, por ter me ajudado a me tornar o desenvolvedor que sou hoje, por acreditar em mim e ter me mostrado o real significado de respeito e honra no mundo da programação.
 
